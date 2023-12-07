@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/leoisl/grp_meeting/compare/v0.1.0...v1.0.0) (2023-12-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Now the add functionality adds 1 to the sum
+
+### Bug Fixes
+
+* Now the add functionality adds 1 to the sum ([d881576](https://github.com/leoisl/grp_meeting/commit/d88157616d419b3c8ea90f081e0c3297c4463a54))
+
 ## 0.1.0 (2023-12-07)
 
 
