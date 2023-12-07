@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/leoisl/grp_meeting/compare/v1.0.0...v1.0.1) (2023-12-07)
+
+
+### Continuous Integration
+
+* adding workflow to release to pypi ([ea898c4](https://github.com/leoisl/grp_meeting/commit/ea898c43e4697f0003ad7214fa53488e4a5f4681))
+
 ## [1.0.0](https://github.com/leoisl/grp_meeting/compare/v0.1.0...v1.0.0) (2023-12-07)
 
 
